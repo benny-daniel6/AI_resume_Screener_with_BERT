@@ -17,7 +17,7 @@ An AI-powered resume screening system that uses BERT to automatically rank and c
 
 ## Installation
 
-git clone https://github.com/yourusername/ai-resume-screener.git
+git clone https://github.com/benny-daniel6/ai-resume-screener.git
 cd ai-resume-screener
 pip install -r requirements.txt
 
